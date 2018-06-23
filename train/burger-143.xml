@@ -1,0 +1,26 @@
+<annotation>
+	<folder>burger_images_v3</folder>
+	<filename>burger-143.jpg</filename>
+	<path>C:\Users\Andrei\Desktop\TFObjDet\burger_images_v3\burger-143.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hamburger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>21</ymin>
+			<xmax>213</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+</annotation>
